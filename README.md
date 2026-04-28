@@ -9,6 +9,9 @@ La aplicación permite al usuario interactuar con los datos mediante dos visuali
 - Un histograma para analizar la distribución del kilometraje (`odometer`).
 - Un gráfico de dispersión para observar la relación entre el kilometraje (`odometer`) y el precio (`price`).
 
+- Link de acceso a Aplicación
+https://proyecto-1-sprint-7.onrender.com/
+
 ## Herramientas utilizadas
 - Python
 - pandas
